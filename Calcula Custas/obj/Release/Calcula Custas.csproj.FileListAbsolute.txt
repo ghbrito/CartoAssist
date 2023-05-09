@@ -1,0 +1,209 @@
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.exe.config
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.exe
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\BouncyCastle.Crypto.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\DocumentFormat.OpenXml.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.Firebird.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.SqlServer.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ExcelNumberFormat.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.barcodes.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.commons.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.forms.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.io.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.kernel.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.layout.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.pdfa.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.sign.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.styledxmlparser.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.svg.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itextsharp.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Options.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Newtonsoft.Json.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Buffers.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Collections.Immutable.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Memory.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Numerics.Vectors.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.ValueTuple.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Uno.Diagnostics.Eventing.dll
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\BouncyCastle.Crypto.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\DocumentFormat.OpenXml.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.SqlServer.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ExcelNumberFormat.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.barcodes.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.commons.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.forms.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.io.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.kernel.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.layout.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.pdfa.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.sign.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.styledxmlparser.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.svg.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itextsharp.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Options.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Newtonsoft.Json.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Buffers.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Collections.Immutable.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Memory.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Numerics.Vectors.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.ValueTuple.xml
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Uno.Diagnostics.Eventing.pdb
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.AssemblyReference.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAlteraSelosBDInterno.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAtualizarValoresTabelas.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConfereSelosBDInterno.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarLivroCaixaImpressao.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarRelatorioContabilidade.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmImportaDadosBD.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmIncluirSeloAvulso.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmInputDialog.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmLerDespesasPDF.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmMainMenu.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmRelatorioConsultaSelosBDInterno.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.ImportaAtosBD.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.Properties.Resources.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConferenciaSelosUC.resources
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.GenerateResource.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.CopyComplete
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.exe
+D:\Dropbox\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.pdb
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.AssemblyReference.cache
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.SuggestedBindingRedirects.cache
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.exe.config
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAlteraSelosBDInterno.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAtualizarValoresTabelas.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConfereSelosBDInterno.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarLivroCaixaImpressao.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarRelatorioContabilidade.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmImportaDadosBD.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmIncluirSeloAvulso.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmInputDialog.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmLerDespesasPDF.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmMainMenu.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmRelatorioConsultaSelosBDInterno.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.ImportaAtosBD.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.Properties.Resources.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConferenciaSelosUC.resources
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.GenerateResource.cache
+C:\Users\guibr\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.CoreCompileInputs.cache
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.AssemblyReference.cache
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAlteraSelosBDInterno.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmAtualizarValoresTabelas.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConfereSelosBDInterno.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarLivroCaixaImpressao.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmGerarRelatorioContabilidade.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmImportaDadosBD.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmIncluirSeloAvulso.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmInputDialog.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmLerDespesasPDF.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmMainMenu.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmRelatorioConsultaSelosBDInterno.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.ImportaAtosBD.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.Properties.Resources.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula_Custas.frmConferenciaSelosUC.resources
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.GenerateResource.cache
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.CoreCompileInputs.cache
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.exe.config
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.exe
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Calcula Custas.pdb
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.Firebird.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ExcelNumberFormat.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.barcodes.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.commons.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.forms.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.io.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.kernel.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.layout.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.pdfa.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.sign.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.styledxmlparser.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.svg.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itextsharp.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Buffers.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Collections.Immutable.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Memory.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.ValueTuple.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Uno.Diagnostics.Eventing.dll
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.pdb
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ClosedXML.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\ExcelNumberFormat.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.barcodes.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.commons.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.forms.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.io.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.kernel.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.layout.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.pdfa.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.sign.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.styledxmlparser.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itext.svg.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\itextsharp.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Buffers.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Collections.Immutable.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Memory.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\System.ValueTuple.xml
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\bin\Release\Uno.Diagnostics.Eventing.pdb
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.csproj.CopyComplete
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.exe
+C:\Users\Gui N1\OneDrive\Documentos\Dropbox\Cursos e Material de Estudo\Projetos\Alura\Calcula Custas\Calcula Custas\obj\Release\Calcula Custas.pdb
