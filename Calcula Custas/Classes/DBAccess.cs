@@ -32,8 +32,7 @@ namespace Calcula_Custas.Classes
             {
                 if (this.codDB == 1)
                 {
-                    //stringConn = @"Data Source = localhost; Database = D:\bkp BDs cart\SAN.fdb; User ID = SYSDBA; password = masterkey";
-                    stringConn = @"Data Source = bdserver; Database = C:\sistemas\Lyon\SAN\Data\SAN.FDB; User ID = SYSDBA; password = masterkey";
+                    //Connection string here
                     connFB = new FbConnection(stringConn);
                     connFB.Open();
                 }
@@ -41,18 +40,16 @@ namespace Calcula_Custas.Classes
                 {
                     if (this.codDB == 2)
                     {
-                        //stringConn = @"DRIVER={MySQL ODBC 8.0 Unicode Driver};" + "SERVER=localhost;" + "DATABASE=bd_cart;" + "UID=root;" + "PASSWORD=masterkey;" + "SslMode=REQUIRED;";
-                        stringConn = @"DRIVER={MySQL ODBC 3.51 Driver};" + "SERVER=bdserver01;" + "DATABASE=bd_cart;" + "UID=cartoadmin;" + "PASSWORD=mdacarto;" + "SslMode=REQUIRED;";
+                        //Connection string here
                         connODBC = new OdbcConnection(stringConn);
                         connODBC.Open();
-                        //MessageBox.Show("abriu odbc");
+                        
                     }
                     else
                     {
                         if (this.codDB == 3)
                         {
-                            //stringConn = "Data Source=LAPTOP-QQAL12IV;Initial Catalog=cartoassistdb;User ID=sa;Password=master13";
-                            stringConn = "Data Source=GUIN1;Initial Catalog=cartoassistdb;User ID=sa;Password=masterkey";
+                            //Connection string here
                             connDB = new SqlConnection(stringConn);
                             connDB.Open();
                         }
@@ -60,10 +57,10 @@ namespace Calcula_Custas.Classes
                         {
                             if (this.codDB == 4)
                             {
-                                stringConn = @"Data Source = localhost; Database = D:\bkp BDs cart\SAN.fdb; User ID = SYSDBA; password = masterkey";
+                                //Connection string here
                                 connFB = new FbConnection(stringConn);
                                 connFB.Open();
-                                stringConn2 = "Dsn=cartosoft;uid=root;Password=masterkey";
+                                
                                 connDB = new SqlConnection(stringConn2);
                                 connDB.Open();
                             }
